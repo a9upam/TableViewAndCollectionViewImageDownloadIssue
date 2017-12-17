@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableViewAndCollectionViewTask/UserListViewController.swift"
+            timestampString = "535218221.319719"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "scrollViewDidEndDragging(_:willDecelerate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableViewAndCollectionViewTask/ServerCommunication.swift"
+            timestampString = "535217264.054894"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "serverHTTPRequesturl(urlRequest:success:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TableViewAndCollectionViewTask.ServerCommunication.(serverHTTPRequesturl in _B238A32376913063FDF7F127CF3FD724)(urlRequest: Foundation.URLRequest, success: (Foundation.Data) -&gt; (), failure: (__ObjC.NSString) -&gt; ()) -&gt; ()"
+                  moduleName = "TableViewAndCollectionViewTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a9upam/Desktop/TableViewAndCollectionViewTask/TableViewAndCollectionViewTask/ServerCommunication.swift"
+                  timestampString = "535210380.281524"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "767">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TableViewAndCollectionViewTask.ServerCommunication.(serverHTTPRequesturl in _B238A32376913063FDF7F127CF3FD724)(urlRequest: Foundation.URLRequest, success: (Foundation.Data) -&gt; (), failure: (__ObjC.NSString) -&gt; ()) -&gt; ()"
+                  moduleName = "TableViewAndCollectionViewTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a9upam/Desktop/TableViewAndCollectionViewTask/TableViewAndCollectionViewTask/ServerCommunication.swift"
+                  timestampString = "535210380.285005"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
